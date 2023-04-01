@@ -1,0 +1,3 @@
+[31m Red text [0m
+[32m Green text [0m
+[33m Yellow text [0m
